@@ -1,0 +1,376 @@
+2019-06-11 13:02:00,372 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-06-11 13:02:34,897 [Worker-7: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: it.polito.latazza:latazza:1.0.0-SNAPSHOT @ C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\pom.xml.
+2019-06-11 13:02:35,093 [Worker-7: Importing Maven projects] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for it.polito.latazza:latazza-gui:jar:1.1.0 is missing, no dependency information available
+2019-06-11 13:02:35,737 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LaTazza/src/main/java
+2019-06-11 13:02:35,746 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LaTazza/src/test/java
+2019-06-11 13:02:36,710 [Worker-7: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2019-06-11 13:02:37,974 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for it.polito.latazza:latazza-gui:jar:1.1.0 is missing, no dependency information available
+2019-06-11 13:02:38,038 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 13:02:38,039 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\main\resources
+2019-06-11 13:02:38,041 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 13:02:38,041 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\test\resources
+2019-06-11 13:02:58,933 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-06-11 13:02:59,431 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: it.polito.latazza:latazza:1.0.0-SNAPSHOT @ C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\pom.xml.
+2019-06-11 13:02:59,553 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading file:///C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza/lib/it/polito/latazza/latazza-gui/1.1.0/latazza-gui-1.1.0.pom
+2019-06-11 13:02:59,559 [Worker-6: Updating Maven Project] WARN  o.e.a.i.impl.WarnChecksumPolicy - Could not validate integrity of download from file:///C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza/lib/it/polito/latazza/latazza-gui/1.1.0/latazza-gui-1.1.0.pom: Checksum validation failed, no checksums available
+2019-06-11 13:02:59,563 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza/lib/it/polito/latazza/latazza-gui/1.1.0/latazza-gui-1.1.0.pom
+2019-06-11 13:02:59,617 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading file:///C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza/lib/it/polito/latazza/latazza-gui/1.1.0/latazza-gui-1.1.0.jar
+2019-06-11 13:02:59,624 [Worker-6: Updating Maven Project] WARN  o.e.a.i.impl.WarnChecksumPolicy - Could not validate integrity of download from file:///C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza/lib/it/polito/latazza/latazza-gui/1.1.0/latazza-gui-1.1.0.jar: Checksum validation failed, no checksums available
+2019-06-11 13:02:59,631 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza/lib/it/polito/latazza/latazza-gui/1.1.0/latazza-gui-1.1.0.jar
+2019-06-11 13:03:00,036 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LaTazza/src/main/java
+2019-06-11 13:03:00,037 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LaTazza/src/test/java
+2019-06-11 13:03:00,231 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-06-11 13:03:01,405 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 13:03:01,405 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\main\resources
+2019-06-11 13:03:01,408 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 13:03:01,408 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\test\resources
+2019-06-11 13:04:28,163 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-06-11 13:04:31,775 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 13:04:31,775 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\main\resources
+2019-06-11 13:04:31,779 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 13:04:31,779 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\test\resources
+2019-06-11 13:05:02,149 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 13:05:02,149 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\main\resources
+2019-06-11 13:05:02,151 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 13:05:02,151 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\test\resources
+2019-06-11 13:06:51,959 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 13:06:51,959 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\main\resources
+2019-06-11 13:06:51,974 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 13:06:51,974 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\test\resources
+2019-06-11 13:07:53,474 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-06-11 13:07:57,687 [Worker-16: Launching LaTazza] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza
+2019-06-11 13:07:57,688 [Worker-16: Launching LaTazza] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2019-06-11 13:07:57,688 [Worker-16: Launching LaTazza] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2019-06-11 13:08:37,792 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-06-11 13:08:45,486 [Worker-7: Launching LaTazza] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza
+2019-06-11 13:08:45,486 [Worker-7: Launching LaTazza] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2019-06-11 13:09:07,144 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-06-11 13:09:07,900 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: it.polito.latazza:latazza:1.0.0-SNAPSHOT @ C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\pom.xml.
+2019-06-11 13:09:08,394 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LaTazza/src/main/java
+2019-06-11 13:09:08,395 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LaTazza/src/test/java
+2019-06-11 13:09:08,632 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-06-11 13:09:09,861 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 13:09:09,862 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\main\resources
+2019-06-11 13:09:09,864 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 13:09:09,865 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\test\resources
+2019-06-11 13:09:19,456 [Worker-5: Launching Executing clean in C__Users_ntame_Desktop_Magistrale_primoAnno_SecondoPeriodo_softwareEngineering_workspace_LaTazza] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza
+2019-06-11 13:09:19,456 [Worker-5: Launching Executing clean in C__Users_ntame_Desktop_Magistrale_primoAnno_SecondoPeriodo_softwareEngineering_workspace_LaTazza] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-06-11 13:09:21,682 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 13:09:21,682 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\main\resources
+2019-06-11 13:09:21,684 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 13:09:21,685 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\test\resources
+2019-06-11 13:09:29,573 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-06-11 13:09:40,731 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-06-11 13:10:12,336 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-06-11 13:10:18,681 [Worker-5: Launching LaTazza] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza
+2019-06-11 13:10:18,681 [Worker-5: Launching LaTazza] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-06-11 13:11:09,306 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 13:11:09,306 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\main\resources
+2019-06-11 13:11:09,307 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 13:11:09,307 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\test\resources
+2019-06-11 13:11:18,952 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-06-11 13:11:19,060 [Worker-7: Launching LaTazza] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza
+2019-06-11 13:11:19,060 [Worker-7: Launching LaTazza] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-06-11 13:11:43,413 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-06-11 13:11:43,991 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: it.polito.latazza:latazza:1.0.0-SNAPSHOT @ C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\pom.xml.
+2019-06-11 13:11:44,457 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LaTazza/src/main/java
+2019-06-11 13:11:44,458 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LaTazza/src/test/java
+2019-06-11 13:11:44,643 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-06-11 13:11:45,582 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 13:11:45,582 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\main\resources
+2019-06-11 13:11:45,584 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 13:11:45,584 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\test\resources
+2019-06-11 13:11:56,189 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-06-11 13:11:56,299 [Worker-1: Launching LaTazza] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza
+2019-06-11 13:11:56,299 [Worker-1: Launching LaTazza] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-06-11 13:12:35,247 [Worker-1: Launching LaTazza] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza
+2019-06-11 13:12:35,248 [Worker-1: Launching LaTazza] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-06-11 13:13:16,478 [Worker-0: Launching LaTazza] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza
+2019-06-11 13:13:16,478 [Worker-0: Launching LaTazza] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-06-11 13:15:13,164 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 13:15:13,165 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\main\resources
+2019-06-11 13:15:13,167 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 13:15:13,167 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\test\resources
+2019-06-11 13:15:17,578 [Worker-11: Launching LaTazza] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza
+2019-06-11 13:15:17,578 [Worker-11: Launching LaTazza] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-06-11 13:15:34,927 [Worker-18: Launching LaTazza] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza
+2019-06-11 13:15:34,927 [Worker-18: Launching LaTazza] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-06-11 13:19:19,190 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 13:19:19,191 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\main\resources
+2019-06-11 13:19:19,195 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 13:19:19,195 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\test\resources
+2019-06-11 13:20:17,019 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 13:20:17,019 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\main\resources
+2019-06-11 13:20:17,021 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 13:20:17,021 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\test\resources
+2019-06-11 13:45:57,236 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 13:45:57,236 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\main\resources
+2019-06-11 13:45:57,236 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 13:45:57,236 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\test\resources
+2019-06-11 13:51:50,684 [Worker-22: Launching LaTazza] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza
+2019-06-11 13:51:50,684 [Worker-22: Launching LaTazza] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-06-11 19:56:30,250 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 19:56:30,250 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\main\resources
+2019-06-11 19:56:30,250 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 19:56:30,250 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\test\resources
+2019-06-11 20:07:01,354 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 20:07:01,370 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\main\resources
+2019-06-11 20:07:01,370 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 20:07:01,370 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\test\resources
+2019-06-11 20:24:36,982 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 20:24:36,982 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\main\resources
+2019-06-11 20:24:36,982 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 20:24:36,982 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\test\resources
+2019-06-11 20:50:31,290 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 20:50:31,291 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\main\resources
+2019-06-11 20:50:31,292 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-11 20:50:31,292 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\LaTazza\src\test\resources
+2019-06-26 15:15:56,054 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-06-26 15:16:17,524 [Worker-5: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration java references non-existing project LaTazza.
+org.eclipse.core.runtime.CoreException: Launch configuration java references non-existing project LaTazza.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1839) ~[org.eclipse.jdt.launching_3.13.0.v20190222-0937.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1714) ~[org.eclipse.jdt.launching_3.13.0.v20190222-0937.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) [org.eclipse.debug.core_3.13.200.v20190216-1557.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.300.v20190218-2100.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.13.200.v20190216-1557.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:528) [org.eclipse.debug.core_3.13.200.v20190216-1557.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:416) [org.eclipse.debug.core_3.13.200.v20190216-1557.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:352) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:777) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:921) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.300.v20190215-2048.jar:na]
+2019-06-26 15:16:17,528 [Worker-5: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration java references non-existing project LaTazza.
+org.eclipse.core.runtime.CoreException: Launch configuration java references non-existing project LaTazza.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1839) ~[org.eclipse.jdt.launching_3.13.0.v20190222-0937.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1714) ~[org.eclipse.jdt.launching_3.13.0.v20190222-0937.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) [org.eclipse.debug.core_3.13.200.v20190216-1557.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.300.v20190218-2100.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.13.200.v20190216-1557.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:528) [org.eclipse.debug.core_3.13.200.v20190216-1557.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:416) [org.eclipse.debug.core_3.13.200.v20190216-1557.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:353) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:777) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:921) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.300.v20190215-2048.jar:na]
+2019-06-26 15:16:17,536 [Worker-5: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration java references non-existing project LaTazza.
+org.eclipse.core.runtime.CoreException: Launch configuration java references non-existing project LaTazza.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1839) ~[org.eclipse.jdt.launching_3.13.0.v20190222-0937.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1714) ~[org.eclipse.jdt.launching_3.13.0.v20190222-0937.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) [org.eclipse.debug.core_3.13.200.v20190216-1557.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.300.v20190218-2100.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.13.200.v20190216-1557.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2151) [org.eclipse.debug.core_3.13.200.v20190216-1557.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:381) [org.eclipse.debug.core_3.13.200.v20190216-1557.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:258) [org.eclipse.debug.core_3.13.200.v20190216-1557.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:228) [org.eclipse.debug.core_3.13.200.v20190216-1557.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:186) [org.eclipse.debug.core_3.13.200.v20190216-1557.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:354) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:777) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:921) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.300.v20190215-2048.jar:na]
+2019-06-26 15:16:17,540 [Worker-5: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration LaTazza (1) references non-existing project LaTazza.
+org.eclipse.core.runtime.CoreException: Launch configuration LaTazza (1) references non-existing project LaTazza.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1839) ~[org.eclipse.jdt.launching_3.13.0.v20190222-0937.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1714) ~[org.eclipse.jdt.launching_3.13.0.v20190222-0937.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) [org.eclipse.debug.core_3.13.200.v20190216-1557.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.300.v20190218-2100.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.13.200.v20190216-1557.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:528) [org.eclipse.debug.core_3.13.200.v20190216-1557.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:416) [org.eclipse.debug.core_3.13.200.v20190216-1557.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:352) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:777) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:921) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.300.v20190215-2048.jar:na]
+2019-06-26 15:16:17,540 [Worker-5: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration LaTazza (1) references non-existing project LaTazza.
+org.eclipse.core.runtime.CoreException: Launch configuration LaTazza (1) references non-existing project LaTazza.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1839) ~[org.eclipse.jdt.launching_3.13.0.v20190222-0937.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1714) ~[org.eclipse.jdt.launching_3.13.0.v20190222-0937.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) [org.eclipse.debug.core_3.13.200.v20190216-1557.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.300.v20190218-2100.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.13.200.v20190216-1557.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:528) [org.eclipse.debug.core_3.13.200.v20190216-1557.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:416) [org.eclipse.debug.core_3.13.200.v20190216-1557.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:353) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:777) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:921) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.300.v20190215-2048.jar:na]
+2019-06-26 15:16:17,548 [Worker-5: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration LaTazza (1) references non-existing project LaTazza.
+org.eclipse.core.runtime.CoreException: Launch configuration LaTazza (1) references non-existing project LaTazza.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1839) ~[org.eclipse.jdt.launching_3.13.0.v20190222-0937.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1714) ~[org.eclipse.jdt.launching_3.13.0.v20190222-0937.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) [org.eclipse.debug.core_3.13.200.v20190216-1557.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.300.v20190218-2100.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.13.200.v20190216-1557.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2151) [org.eclipse.debug.core_3.13.200.v20190216-1557.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:381) [org.eclipse.debug.core_3.13.200.v20190216-1557.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:258) [org.eclipse.debug.core_3.13.200.v20190216-1557.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:228) [org.eclipse.debug.core_3.13.200.v20190216-1557.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:186) [org.eclipse.debug.core_3.13.200.v20190216-1557.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:354) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:777) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:921) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.300.v20190215-2048.jar:na]
+2019-06-26 15:16:52,916 [Worker-12: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: it.polito.latazza:latazza:1.0.0-SNAPSHOT @ C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\laTazza2\LaTazza\pom.xml.
+2019-06-26 15:16:53,364 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /latazza/src/main/java
+2019-06-26 15:16:53,372 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /latazza/src/test/java
+2019-06-26 15:16:53,584 [Worker-12: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2019-06-26 15:16:54,153 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\laTazza2\LaTazza/lib/it/polito/latazza/latazza-gui/1.0.1/latazza-gui-1.0.1-sources.jar
+2019-06-26 15:16:54,158 [Worker-13: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for it.polito.latazza:latazza-gui:1.0.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact it.polito.latazza:latazza-gui:jar:sources:1.0.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:763) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:731) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:708) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:254) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.300.v20190215-2048.jar:na]
+2019-06-26 15:16:54,194 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\laTazza2\LaTazza/lib/it/polito/latazza/latazza-gui/1.0.1/latazza-gui-1.0.1-javadoc.jar
+2019-06-26 15:16:54,197 [Worker-13: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for it.polito.latazza:latazza-gui:1.0.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact it.polito.latazza:latazza-gui:jar:javadoc:1.0.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:763) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:731) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:708) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:265) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.300.v20190215-2048.jar:na]
+2019-06-26 15:16:54,765 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-26 15:16:54,765 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\laTazza2\LaTazza\src\main\resources
+2019-06-26 15:16:54,765 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-26 15:16:54,765 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\laTazza2\LaTazza\src\test\resources
+2019-06-26 15:19:05,963 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-26 15:19:05,963 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\laTazza2\LaTazza\src\main\resources
+2019-06-26 15:19:05,967 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-26 15:19:05,967 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\laTazza2\LaTazza\src\test\resources
+2019-06-26 15:19:20,880 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-26 15:19:20,880 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\laTazza2\LaTazza\src\main\resources
+2019-06-26 15:19:20,884 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-26 15:19:20,884 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\laTazza2\LaTazza\src\test\resources
+2019-06-26 15:59:27,987 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-26 15:59:27,987 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\laTazza2\LaTazza\src\main\resources
+2019-06-26 15:59:27,987 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-26 15:59:27,987 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\laTazza2\LaTazza\src\test\resources
+2019-06-28 17:47:36,746 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-06-28 17:47:36,968 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2019-06-28 17:47:39,891 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 17:47:39,892 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\laTazza2\LaTazza\src\main\resources
+2019-06-28 17:47:39,895 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 17:47:39,895 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\laTazza2\LaTazza\src\test\resources
+2019-07-10 12:05:45,653 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-07-10 12:20:29,354 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-10 12:20:29,355 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\laTazza2\LaTazza\src\main\resources
+2019-07-10 12:20:29,358 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-10 12:20:29,358 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\laTazza2\LaTazza\src\test\resources
+2019-07-10 12:21:51,593 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-10 12:21:51,593 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\laTazza2\LaTazza\src\main\resources
+2019-07-10 12:21:51,594 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-10 12:21:51,595 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\laTazza2\LaTazza\src\test\resources
+2019-07-10 12:22:06,909 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-10 12:22:06,909 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\laTazza2\LaTazza\src\main\resources
+2019-07-10 12:22:06,911 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-10 12:22:06,911 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\laTazza2\LaTazza\src\test\resources
+2019-07-10 12:22:46,381 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-10 12:22:46,382 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\laTazza2\LaTazza\src\main\resources
+2019-07-10 12:22:46,383 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-10 12:22:46,383 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\laTazza2\LaTazza\src\test\resources
+2019-07-10 12:23:29,917 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-10 12:23:29,918 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\laTazza2\LaTazza\src\main\resources
+2019-07-10 12:23:29,919 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-10 12:23:29,919 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\laTazza2\LaTazza\src\test\resources
+2019-07-25 17:42:00,898 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-07-25 17:42:04,068 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-25 17:42:04,069 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\laTazza2\LaTazza\src\main\resources
+2019-07-25 17:42:04,072 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-25 17:42:04,072 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\laTazza2\LaTazza\src\test\resources
+2019-07-25 17:42:29,249 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-25 17:42:29,250 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\laTazza2\LaTazza\src\main\resources
+2019-07-25 17:42:29,251 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-25 17:42:29,251 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ntame\Desktop\Magistrale\primoAnno\SecondoPeriodo\softwareEngineering\workspace\laTazza2\LaTazza\src\test\resources
